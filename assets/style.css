@@ -1,0 +1,52 @@
+.bg-blue{
+    background-color: blue;
+    height: 100vh;
+}
+.text-center{
+    font-size: 30px;
+    color: white;
+    margin-top: 26px;
+}
+.im-picture{
+    position: absolute;
+    left: 454px;
+    height: 13%;
+    width: 11%;
+    margin-top: 40px;
+}
+.bg-subtle-pink {
+    background-color: #004184;
+    height: 9%;
+    width: 18%;
+    position: absolute;
+    left: 600px;
+    top: 130px;
+}
+.border-3{
+    border-radius: 12px;
+}
+.t-center{
+    color: white;
+    font-size: 19px;
+    text-align: center;
+}
+.d-flex{
+    display: flex;
+}
+.justify-content-between{
+    justify-content: space-between;
+    height: 60%;
+    width: 70%;
+}
+.mt-top{
+    margin-top: 200px;
+}
+.ms-left{
+    margin-left: 25px;
+}
+.left-3{
+    margin-left: -26px;
+}
+.me-right{
+    margin-left: 58px;
+}
